@@ -1,4 +1,4 @@
-# GestMutuelle , pour gerer vos mutuelle
+# GestMutuelle , GERER VOS MUTUELLE AVEC AISANCE
 Ce projet a été conçu pour une meilleure gestion d'une mutuelle.
 Elle inclut les fonctionnalités suivantes:
 - gestion des membres de la mutuelle ;
